@@ -7,6 +7,18 @@
   "engines": {
     "vscode": "^1.63.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabri3lmarques/vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Bulma",
+    "Bulma CSS",
+    "Bulma dark"
+  ],
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
