@@ -1,0 +1,22 @@
+{
+  "name": "bulma-dark",
+  "displayName": "Bulma Dark",
+  "description": "A very refined theme based on the Bulma CSS framework color palette.",
+  "version": "0.0.1",
+  "publisher": "GabrielMarques",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bulma Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bulma Dark-color-theme.json"
+      }
+    ]
+  }
+}
